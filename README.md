@@ -11,4 +11,4 @@ scan_publisher.py: ROS2 기반 가상 Lidar 데이터 발행 (Step 1)
     ros2 run turtlesim turtlesim_node
 3. Lidar 데이터 발행
    ros2 run lds_simulation talker
-4. 260326코드 실
+4. 260326코드 실행
